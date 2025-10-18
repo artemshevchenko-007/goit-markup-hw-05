@@ -499,8 +499,13 @@ max-width: 264px;
     color: #fff;
 }
 
+.footer-form {
+    display: flex;
+    gap: 24px;
+}
 
 .footer-form-button {
+    font-family: "Roboto", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -514,14 +519,11 @@ max-width: 264px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    cursor: pointer;
 }
 
 .btn-icon {
     fill: #fff;
-}
-.footer-label {
-    display: flex;
-    gap: 24px;
 }
 
 
