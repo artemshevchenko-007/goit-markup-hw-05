@@ -499,10 +499,6 @@ max-width: 264px;
     color: #fff;
 }
 
-.footer-form {
-    display: flex;
-    gap: 24px;
-}
 
 .footer-form-button {
     display: flex;
@@ -522,6 +518,10 @@ max-width: 264px;
 
 .btn-icon {
     fill: #fff;
+}
+.footer-label {
+    display: flex;
+    gap: 24px;
 }
 
 
